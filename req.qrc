@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="req">
+    <file>stockimages/exit.png</file>
+    <file>stockimages/clock.png</file>
+    <file>stockimages/greenboard.png</file>
+    <file>stockimages/noelleImage.png</file>
+    <file>stockimages/spotlight.png</file>
+    <file>stockimages/whitebackground.jpg</file>
+  </qresource>
+</RCC>

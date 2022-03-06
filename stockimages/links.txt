@@ -1,0 +1,24 @@
+background: 
+<a href="https://www.freepik.com/photos/background">Background photo created by rawpixel.com - www.freepik.com</a>
+
+brain:
+<a href='https://www.freepik.com/photos/technology'>Technology photo created by rawpixel.com - www.freepik.com</a>
+
+noelle:
+https://www.pngegg.com/en/png-dmnsh
+
+spotlight:
+https://www.pngegg.com/en/png-dhjsr
+
+
+light white background:
+https://www.pngegg.com/en/png-dheur
+
+green board:
+https://www.pngegg.com/en/png-zmjkp
+
+clock:
+https://www.pngegg.com/en/png-nbley
+
+exit:
+https://www.pngegg.com/en/png-zympi
